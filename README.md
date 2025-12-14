@@ -52,12 +52,7 @@ In `notebook/2. MODEL TRAINING.ipynb`, several models were evaluated. Example **
 ```bash
 cd student-performance-main
 
-# (optional) create & activate a virtual environment
 python -m venv .venv
-# Linux/macOS:
-source .venv/bin/activate
-# Windows (PowerShell):
-# .venv\Scripts\Activate.ps1
 
 pip install -r requirements.txt
 ```
@@ -176,12 +171,7 @@ W `notebook/2. MODEL TRAINING.ipynb` porównano kilka modeli. Przykładowe warto
 ```bash
 cd student-performance-main
 
-# (opcjonalnie) utwórz i aktywuj venv
 python -m venv .venv
-# Linux/macOS:
-source .venv/bin/activate
-# Windows (PowerShell):
-# .venv\Scripts\Activate.ps1
 
 pip install -r requirements.txt
 ```
